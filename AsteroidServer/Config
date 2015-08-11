@@ -1,0 +1,13 @@
+{
+	"database":
+	{
+		"address" : "127.0.0.1",
+		"port" : 3306,
+		"dbName" : "asi",
+		"user" : "root",
+		"password" : "12345"
+	},
+
+	"serverAddress" : "http://localhost:9000"
+
+}
